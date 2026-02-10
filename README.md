@@ -17,7 +17,8 @@ _data soong, star trek: the next generation_ <img align="right" width="350" heig
 
 
 <img align="right" width="350" height="400" src="https://i.pinimg.com/736x/63/5a/77/635a77af4ad0dde91c72a904279a9b2b.jpg">
-_john watson & sherlock holmes_ 
+
+_john watson & sherlock holmes_
 
 
 
