@@ -24,4 +24,4 @@ _DATA SOONG,_ __Star Trek: The Next Generation__ <img align="left" width="350" h
  _WATSON & HOLMES,_ __Sir Arthur Conan Doyle__
  <img align="right" width="350" height="400" src="https://i.pinimg.com/736x/63/5a/77/635a77af4ad0dde91c72a904279a9b2b.jpg">
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daz59&repo=HELLO-THERE)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daz59HELLO-THERE=HELLO-THERE)
