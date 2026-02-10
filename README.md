@@ -11,5 +11,5 @@ _>> I love sherlock, star trek tng, & musicals!_ ^⩌^
 
 [fav characters!]
 
-_data soong, star trek: the next generation_ <img align="right" width="350" height="400" src="[https://i.pinimg.com/736x/d0/c2/10/d0c21068d3b5ea2ce617b4760f5cd129.jpg](https://media.tenor.com/m7zifNOvLJIAAAAC/data-star-trek.gif)](https://www.pinterest.com/pin/768708230165007920/)"> 
+_data soong, star trek: the next generation_ <img align="right" width="350" height="400" src="[[https://i.pinimg.com/736x/d0/c2/10/d0c21068d3b5ea2ce617b4760f5cd129.jpg](https://media.tenor.com/m7zifNOvLJIAAAAC/data-star-trek.gif)](https://www.pinterest.com/pin/768708230165007920/)](https://i.pinimg.com/736x/09/26/30/092630553734e4e2711df20e0f7ac989.jpg)"> 
 
