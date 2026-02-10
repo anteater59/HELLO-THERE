@@ -21,6 +21,6 @@ _DATA SOONG,_ __Star Trek: The Next Generation__ <img align="left" width="350" h
 
 <img align="center" width="350" height="400" src="https://i.pinimg.com/originals/68/af/fe/68affe554a65d1b3e40694912d754e5f.gif">
 
- _WATSON & HOLMES,_ __Arthur Conan Doyle__
+ _WATSON & HOLMES,_ __Sir Arthur Conan Doyle__
  <img align="right" width="350" height="400" src="https://i.pinimg.com/736x/63/5a/77/635a77af4ad0dde91c72a904279a9b2b.jpg">
 
